@@ -1,8 +1,15 @@
-# LITA_Class_Documentation
+# LITA_CLASS_DOCUMENTATION
 ---
-This is where I want to document my first Data Analysis project with the Incubator Hub
-### Data Analysis first project
+I created this to document my first project on Data Analysis  with the Incubator Hub
 
+### Data Analysis first project
+##COURSE: DATA ANALYSIS
+
+##DATA ANALYSIS OVERVIEW
+
+#Project Title: Portfolio 
+
+#Project 
 
 ###Tools used in this class are 
 
