@@ -3,15 +3,14 @@
 I created this to document my first project on Data Analysis  with the Incubator Hub
 
 ### Data Analysis first project
-##COURSE: DATA ANALYSIS
+### COURSE: DATA ANALYSIS
 
-##DATA ANALYSIS OVERVIEW
+### DATA ANALYSIS OVERVIEW
 
-#Project Title: Portfolio 
+# Project Title: Portfolio 
 
-#Project 
 
-###Tools used in this class are 
+### Tools used in this class are 
 
 ---
 - Microsoft Excel [Download Here](https://www.microsoft.com)
